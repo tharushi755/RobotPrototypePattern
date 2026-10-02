@@ -1,0 +1,15 @@
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\bin\Debug\net10.0\RobotPrototypePattern.exe
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\bin\Debug\net10.0\RobotPrototypePattern.deps.json
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\bin\Debug\net10.0\RobotPrototypePattern.runtimeconfig.json
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\bin\Debug\net10.0\RobotPrototypePattern.dll
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\bin\Debug\net10.0\RobotPrototypePattern.pdb
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\RobotPrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\RobotPrototypePattern.AssemblyInfoInputs.cache
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\RobotPrototypePattern.AssemblyInfo.cs
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\RobotPrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\RobotPrototypePattern.dll
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\refint\RobotPrototypePattern.dll
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\RobotPrototypePattern.pdb
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\RobotPrototypePattern.genruntimeconfig.cache
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\ref\RobotPrototypePattern.dll
+C:\Users\Tharushi\Desktop\RobotPrototypePattern\RobotPrototypePattern\obj\Debug\net10.0\RobotPro.06EB9B45.Up2Date
